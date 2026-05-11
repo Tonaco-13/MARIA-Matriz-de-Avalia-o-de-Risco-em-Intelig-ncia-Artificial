@@ -1,4 +1,6 @@
-# MARA Assessment Tool - Development Summary
+# MAR.IA Assessment Tool — Development Summary
+
+> **Nota histórica (2026-05-11):** Este documento foi gerado quando o software se chamava **MARA** (Matriz de Avaliação de Risco Algorítmico). Em 11/05/2026 o produto foi renomeado para **MAR.IA** (Matriz de Avaliação de Risco em Inteligência Artificial). Toda referência a "MARA" abaixo deve ser lida como "MAR.IA".
 
 ## Task ID: mara-fullstack-development
 ## Agent: Z.ai Code
